@@ -53,7 +53,7 @@ To run this project on your local machine:
 ###  Install Dependencies  
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
-
+```
 
 
 
