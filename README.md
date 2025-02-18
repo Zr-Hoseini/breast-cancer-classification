@@ -50,9 +50,12 @@ Final ranking: **ANN > RF > SVM > KNN > LR > GNB > DT**
 ## 📂 Installation & Usage  
 To run this project on your local machine:  
 
-### 1️⃣ Install Dependencies  
+###  Install Dependencies  
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
+
+
+
 
 📌 Future Improvements
 Hyperparameter tuning for better ANN performance.
