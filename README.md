@@ -57,12 +57,12 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 
 
-##📌 Future Improvements
+📌 Future Improvements
 Hyperparameter tuning for better ANN performance.
 Ensemble Learning to combine multiple models.
 Feature selection for better interpretability.
 
 
-##📌 Author
+📌 Author
 Developed by [Zahra Hoseini] 🧑‍💻
 If you found this project helpful, feel free to ⭐️ the repo!
